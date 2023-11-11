@@ -3,3 +3,6 @@ Repository Overview: This Git repository is dedicated to Case study analysis for
 # Case Study Topic
 Topic No.: 113
 "Value Results, Not Just Effort" by Venkat Subramaniam
+# Details
+Name: Riddhi Bhuva
+Student id: 40220969
