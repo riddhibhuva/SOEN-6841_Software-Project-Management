@@ -5,4 +5,5 @@ Topic No.: 113
 "Value Results, Not Just Effort" by Venkat Subramaniam
 # Details
 Name: Riddhi Bhuva
+
 Student id: 40220969
